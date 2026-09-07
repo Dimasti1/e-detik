@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306186093992",
+    "project_id": "edetik-777e4",
+    "storage_bucket": "edetik-777e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306186093992:android:6a772d3e749eb205c3899d",
+        "android_client_info": {
+          "package_name": "com.example.edetik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7B2waaw3p9d1plzwM3rNPXVUL81ExVzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
